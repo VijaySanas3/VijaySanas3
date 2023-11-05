@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
 
-vijay.sanas45@gmail.com
-
-https://github.com/VijaySanas
+vijay.sanas45@gmail.com | https://www.linkedin.com/in/vijay-sanas-2056b3253/
 
 https://www.linkedin.com/in/vijay-sanas-2056b3253/
 <h1>Educational Details</h1>
