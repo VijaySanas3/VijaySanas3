@@ -1,8 +1,9 @@
-<img src="vijaysanas.jpg" width="25%" align="left" />
+<pre><img src="vijaysanas.jpg" width="25%" align="left" />
 
-<pre> vijay.sanas45@gmail.com || https://www.linkedin.com/in/vijay-sanas-2056b3253/ || https://github.com/VijaySanas3 </pre>
+vijay.sanas45@gmail.com ||
+https://www.linkedin.com/in/vijay-sanas-2056b3253/ || 
+https://github.com/VijaySanas3 
 
-<pre>
 <h1>Educational Details</h1>
 <p><b>B.Tech, Information Technology</b><br>                         
 Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
@@ -12,9 +13,9 @@ Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%<
 
 <pre>
 <h1>Internships</h1>
-[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]
-CodSoft Internship (Python Programming Intern)<br>
-<p>Languages & Technologies:- Python</p>
+<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>
+<b>CodSoft Internship</b> (Python Programming Intern)<br>
+<p>Languages & Technologies:- <b>Python</b></p>
 </pre>
 
 <pre>
