@@ -1,35 +1,38 @@
-<img src="" width="25%" align="left" />
+<img src="vijaysanas.jpg" width="25%" align="left" />
 
+<pre> vijay.sanas45@gmail.com || https://www.linkedin.com/in/vijay-sanas-2056b3253/ || https://github.com/VijaySanas3 </pre>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
-
-vijay.sanas45@gmail.com || https://www.linkedin.com/in/vijay-sanas-2056b3253/ || https://github.com/VijaySanas3
-
+<pre>
 <h1>Educational Details</h1>
-<p>B.Tech, Information Technology<br>                         
+<p><b>B.Tech, Information Technology</b><br>                         
 Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
-<p>Diploma, Computer Technology<br>                        
+<p><b>Diploma, Computer Technology</b><br>                        
 Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%</b>)</p>
+</pre>
 
+<pre>
 <h1>Internships</h1>
-
-[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
-
-[**CodSoft Internship**](https://www.codsoft.in/) (Python Programming Intern)<br>
+[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]
+CodSoft Internship (Python Programming Intern)<br>
 <p>Languages & Technologies:- Python</p>
-<br>
+</pre>
+
+<pre>
 <h1>Projects</h1>
-<b>Attendance System App</b>
-(Apr 2021 - Jun 2021)
+<b>Attendance System App</b> (Apr 2021 - Jun 2021)
 <br>https://ijarcce.com/wp-content/uploads/2021/06/IJARCCE.2021.10639.pdf
+<br>The aim of developing an attendance system is to computerize the traditional way of taking attendance. Another purpose for 
+developing this software is to get the report automatically at the end of the session or in between sessions. 
+To overcome the drawbacks of the prevailing system, the proposed system has evolved.
+</pre>
 
-<br>The aim of developing an attendance system is to computerize the traditional way of taking attendance. Another purpose for developing this software is to get the report automatically at the end of the session or in between sessions. To overcome the drawbacks of the prevailing system, the proposed system has evolved.
-
+<pre>
 <h1>Skills</h1>
-<p><b>Hard Skills</b><br>
-Python (Intermediate)<br>
-MS Excel (Beginner)<br>    
-HTML (Beginner)<br></p>
-<p><b>Soft Skills</b><br>
-Adaptability<br>
-Collaboration<br></p>
+<p><b>Hard Skills</b>
+Power BI (Intermediate)
+MS Excel (Beginner)   
+MySQL (Beginner)</p>
+<p><b>Soft Skills</b>
+Adaptability
+Collaboration</p>
+</pre>
