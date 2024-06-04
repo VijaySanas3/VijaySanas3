@@ -1,3 +1,4 @@
+<pre><b><h1 align = "center">RESUME</h1></b></pre>
 <pre><img src="vijaysanas.jpg" width="25%" align="left" />
 
 vijay.sanas45@gmail.com ||
