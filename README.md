@@ -1,5 +1,5 @@
 <pre><b><h1 align = "center">RESUME</h1></b></pre>
-<pre><img src="vijaysanas.jpg" width="25%" align="left" />
+<img src="vijaysanas.jpg" width="25%" align="left" />
 
 vijay.sanas45@gmail.com ||
 https://www.linkedin.com/in/vijay-sanas-2056b3253/ || 
@@ -10,7 +10,7 @@ https://github.com/VijaySanas3
 Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
 <p><b>Diploma, Computer Technology</b><br>                        
 Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%</b>)</p>
-</pre>
+
 
 <pre>
 <h1>Internships</h1>
