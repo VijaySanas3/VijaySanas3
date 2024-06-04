@@ -2,6 +2,9 @@
 
 <p align="center">| Phone No: <b>+91 9137051056</b> | Gmail: <b>vijay.sanas45@gmail.com</b> | Linkedin: <b>https://www.linkedin.com/in/vijay-sanas-2056b3253/</b> |</p><p align="center">| Github: <b>https://github.com/VijaySanas3</b> |</p>
 
+<h1>Summary</h1>
+<p>Recent graduate with a background in data analysis, equipped with hands-on experience in using Power BI, SQL, and Excel for data management and reporting. Demonstrated ability to analyze large datasets, generate meaningful insights, and support data-driven decision-making. Strong technical and analytical skills, coupled with a passion for leveraging data to drive business improvements. Seeking an entry-level data analyst position to apply skills and contribute to organizational success.
+</p>
 <h1>Educational Details</h1>
 <p><b>B.Tech, Information Technology</b><br>                         
 Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
