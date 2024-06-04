@@ -11,11 +11,6 @@ Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>
 <p><b>Diploma, Computer Technology</b><br>                        
 Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%</b>)</p>
 
-<h1>Internships</h1>
-<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>
-<b>CodSoft Internship</b> (Python Programming Intern)<br>
-<p>Languages & Technologies:- <b>Python</b></p>
-
 <h1>Projects</h1>
 <b>Attendance System App</b> (Apr 2021 - Jun 2021)
 <br>https://ijarcce.com/wp-content/uploads/2021/06/IJARCCE.2021.10639.pdf
@@ -24,11 +19,18 @@ developing this software is to get the report automatically at the end of the se
 To overcome the drawbacks of the prevailing system, the proposed system has evolved.
 
 <h1>Skills</h1>
-<p><b>Hard Skills</b>
-Power BI (Intermediate)
-MS Excel (Beginner)   
+<p><b>Hard Skills</b><br>
+Power BI (Intermediate),<br>
+MS Excel (Beginner),<br>   
 MySQL (Beginner)</p>
-<p><b>Soft Skills</b>
-Adaptability
+<p><b>Soft Skills</b><br>
+Adaptability,<br>
+TeamWork,<br>
 Collaboration</p>
+
+<h1>Internships</h1>
+<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>
+<b>CodSoft Internship</b> (Python Programming Intern)<br>
+<p>Languages & Technologies:- <b>Python</b></p>
+
 
