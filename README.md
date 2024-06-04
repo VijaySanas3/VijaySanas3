@@ -1,9 +1,7 @@
-<pre><b><h1 align = "center">RESUME</h1></b></pre>
-<img src="vijaysanas.jpg" width="25%" align="left" />
+<pre><b><h1 align = "center">VIJAY SANAS (Data Analyst)</h1></b></pre>
 
-vijay.sanas45@gmail.com ||
-https://www.linkedin.com/in/vijay-sanas-2056b3253/ || 
-https://github.com/VijaySanas3 
+<p align="center">Phone No: +91 9137051056 | Gmail: vijay.sanas45@gmail.com | Linkedin: https://www.linkedin.com/in/vijay-sanas-2056b3253/ |</p>
+<p align="center">Github: https://github.com/VijaySanas3 </p>
 
 <h1>Educational Details</h1>
 <p><b>B.Tech, Information Technology</b><br>                         
