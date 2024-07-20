@@ -1,13 +1,13 @@
 <pre><h1 align = "center">VIJAY SANAS</pre>
 
-<p align="center">| Phone No: <b>+91 9137051056</b> | Gmail: <b>vijay.sanas45@gmail.com</b> | Linkedin: <b>https://www.linkedin.com/in/vijay-sanas-2056b3253/</b> |</p><p align="center">| Github: <b>https://github.com/VijaySanas3</b> |</p>
+<p align="center">| Phone No: <b>+91 9137051056</b> | Gmail: <b>vijay.sanas45@gmail.com</b> | Linkedin: <b>https://www.linkedin.com/in/vijay-sanas-2056b3253/</b> |</p><p align="center">| Github: <b>https://github.com/VijaySanas3</b> | </p>
 
 <h2>Summary</h2>
-<p>Recent graduate with a background in data analysis, equipped with hands-on experience in using Power BI, SQL, and Excel for data management and reporting. Demonstrated ability to analyze large datasets, generate meaningful insights, and support data-driven decision-making. Strong technical and analytical skills, coupled with a passion for leveraging data to drive business improvements. Seeking an entry-level data analyst position to apply skills and contribute to organizational success.</p>
+<p>Recent Graduate with a background in Data Analysis, equipped with hands-on experience in using Power BI, SQL, and Excel for Data Management and Reporting. Demonstrated ability to Analyze Large Datasets, generate Meaningful Insights, and support Data-Driven Decision-Making. Strong Technical and Analytical Skills, coupled with a passion for leveraging Data to drive Business Improvements. Seeking an Entry-Level Data Analyst position to apply Skills and contribute to Organizational Success.</p>
 
 <h2>Education</h2>
 <p><b>B.Tech, Information Technology</b><br>                         
-Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
+Bharati Vidyapeeth (Deemed To Be University) (2021 – 2024, Percentage: <b>80.20%</b>)</p>  
 <p><b>Diploma, Computer Technology</b><br>                        
 Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%</b>)</p>
 
