@@ -1,4 +1,4 @@
-<pre><h1 align = "center">VIJAY SANAS</pre>
+<pre><h1 align = "center">VIJAY SANAS</h1></pre>
 
 <p align="center">| Phone No: <b>+91 9137051056</b> | Gmail: <b>vijay.sanas45@gmail.com</b> | Linkedin: <b>https://www.linkedin.com/in/vijay-sanas-2056b3253/</b> |</p><p align="center">| Github: <b>https://github.com/VijaySanas3</b> | </p>
 
