@@ -45,11 +45,6 @@
 
 - Python (Basic)
 
-**Data Visualization:**
-
-- Creating interactive dashboards
-- Generating insightful reports
-
 ---
 
 <h2>Soft Skills</h2>
