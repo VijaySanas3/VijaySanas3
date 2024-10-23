@@ -18,7 +18,7 @@
 
 - **B.Tech in Information Technology**  
   Bharati Vidyapeeth (Deemed To Be University)  
-  *(2021 – 2024, Percentage: 80.20%)*  
+  *(2021 – 2024, CGPA: 8.5)*  
 
 - **Diploma in Computer Technology**  
   Bharati Vidyapeeth College of Engineering  
@@ -26,43 +26,54 @@
 
 ---
 
+<h2>Experience</h2>
+
+- **Data Analyst Intern** | Unified Mentor Pvt. Ltd. *(2023 – 2024)*  
+  - Developed and implemented an interactive Power BI dashboard with 10+ dynamic KPIs and charts, enhancing decision-making efficiency by 15%.  
+  - Conducted in-depth data analysis and created ETL pipelines using Excel and Power BI, producing 20+ actionable insights for strategic planning.  
+  - Boosted reporting accuracy by 25% through data cleaning and transformation processes, ensuring reliable data for reports and visualizations.
+
+- **Python Programming Intern** | CodSoft *(2022 – 2023)*  
+  - Developed Python-based applications (to-do list, calculator, password generator) with user-friendly interfaces using Tkinter.  
+  - Enhanced code performance by 10% through debugging, testing, and project management, ensuring robust software functionality.  
+
+---
+
 <h2>Projects</h2>
 
-- **[Attendance System App](https://ijarcce.com/wp-content/uploads/2021/06/IJARCCE.2021.10639.pdf)** *(Apr 2021 - Jun 2021)*  
-  Developed an innovative attendance system that automates the traditional process of taking attendance. This application generates reports automatically, providing efficiency and accuracy in session management.
+- **[Amazon Sales Analysis](https://github.com/VijaySanas3/Amazon-Sales-Analysis-Project.git)**  
+  Created and implemented a Power BI dashboard to visualize sales trends, streamlining data cleaning processes for 10,000+ sales records, improving reporting efficiency by 20%.
+
+- **[Employee Attrition Analysis](https://github.com/VijaySanas3/Employee-Attrition-Analysis-Project.git)**  
+  Developed a Power BI dashboard to track employee attrition trends and visualize factors influencing turnover, uncovering actionable insights for HR strategies.
+
+- **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Dashboard)**  
+  Performed ETL on heart disease data and created visualizations to track heart disease rates by age and gender, providing insights for healthcare policy-making.
 
 ---
 
-<h2>Technical Skills</h2>
+<h2>Certifications</h2>
 
-**Data Analysis Tools:**
-
-- Power BI (Intermediate)
-- MS Excel (Beginner)
-- MySQL (Beginner)
-
-**Programming Languages:**
-
-- Python (Basic)
+- **Data Analytics Certificate** *(2024)*  
+- **SQL Programming Essentials** *(2023)*  
+- **Advanced Excel Certificate** *(2023)*  
 
 ---
 
-<h2>Soft Skills</h2>
+<h2>Skills</h2>
 
-- Adaptability
-- Teamwork
-- Collaboration
+- **Data Analysis Tools:**
+  - Power BI (Intermediate)
+  - MS Excel (Intermediate)
+  - MySQL (Beginner)
+  - SQL (Intermediate)
 
----
+- **Programming Languages:**
+  - Python (Intermediate)
 
-<h2>Internships</h2>
-
-<div style="overflow: hidden; display: flex; align-items: center; margin-bottom: 15px;">
-  <img align="left" height="70px" width="90px" alt="CodSoft" src="codsoft logo.png?raw=true" style="margin-right: 15px;"/>
-  <div>
-    <b>Python Programming Intern at CodSoft</b><br>
-    <p>Developed fundamental Python skills, enhancing programming capabilities for data-related tasks.</p>
-  </div>
-</div>
-
----
+- **Key Data Analyst Skills:**
+  - Data Cleaning and Transformation
+  - Interactive Dashboard Development
+  - ETL Pipelines
+  - Data Visualization and Reporting
+  - KPI Development and Tracking
