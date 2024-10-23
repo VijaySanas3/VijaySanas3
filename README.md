@@ -8,7 +8,7 @@
 
 ---
 
-<h2>Professional Summary</h2>
+
 
 <p>I am a recent graduate with a specialization in data analysis, possessing hands-on experience with Power BI, SQL, and Excel for effective data management and reporting. I excel at analyzing large datasets, generating actionable insights, and supporting data-driven decision-making processes. With strong technical and analytical skills, I am passionate about leveraging data to drive business improvements and am eager to contribute to organizational success as a data analyst.</p>
 
@@ -56,28 +56,20 @@
 
 ---
 
+<h2>Skills</h2>
+
+- **Data Analysis Tools:**
+  - MS Excel (Intermediate)
+  - Power BI (Intermediate)
+  - MySQL (Intermediate)
+
+- **Programming Languages:**
+  - Python (Beginner)
+
+---
+
 <h2>Certifications</h2>
 
 - **Data Analytics Certificate** *(2024)*  
 - **SQL Programming Essentials** *(2023)*  
 - **Advanced Excel Certificate** *(2023)*  
-
----
-
-<h2>Skills</h2>
-
-- **Data Analysis Tools:**
-  - Power BI (Intermediate)
-  - MS Excel (Intermediate)
-  - MySQL (Beginner)
-  - SQL (Intermediate)
-
-- **Programming Languages:**
-  - Python (Intermediate)
-
-- **Key Data Analyst Skills:**
-  - Data Cleaning and Transformation
-  - Interactive Dashboard Development
-  - ETL Pipelines
-  - Data Visualization and Reporting
-  - KPI Development and Tracking
