@@ -2,7 +2,7 @@
 
 <p align="center">
   | 📞 Phone: <b>+91 9137051056</b> | ✉️ Email: <b>vijay.sanas45@gmail.com</b> | 
-  <a href="https://www.linkedin.com/in/vijay-sanas-2056b3253/"><b>LinkedIn</b></a> | 
+  <a href="https://www.linkedin.com/in/vijay-sanas/"><b>LinkedIn</b></a> | 
   <a href="https://github.com/VijaySanas3"><b>GitHub</b></a> |
 </p>
 
