@@ -24,6 +24,10 @@
   Bharati Vidyapeeth College of Engineering  
   *(2018 – 2021, Percentage: 86.63%)*  
 
+- **SSC**  
+  N.M. Joshi Marg School  
+  *(2017 – 2018, Percentage: 79.20%)*
+
 ---
 
 <h2>Experience</h2>
