@@ -49,9 +49,9 @@
   Created and implemented a Power BI dashboard to visualize sales trends, streamlining data cleaning processes for 10,000+ sales records, improving reporting efficiency by 20%.
 
 - **[Employee Attrition Analysis](https://github.com/VijaySanas3/Employee-Attrition-Analysis-Project.git)**  
-  Developed a Power BI dashboard to track employee attrition trends and visualize factors influencing turnover, uncovering actionable insights for HR strategies.
+  Developed a Power BI dashboard to track employee attritio n trends and visualize factors influencing turnover, uncovering actionable insights for HR strategies.
 
-- **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Analysis.git))**  
+- **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Analysis.git)**  
   Performed ETL on heart disease data and created visualizations to track heart disease rates by age and gender, providing insights for healthcare policy-making.
 
 ---
