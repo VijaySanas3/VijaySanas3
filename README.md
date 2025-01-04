@@ -48,14 +48,14 @@
 - **[Amazon Sales Analysis](https://github.com/VijaySanas3/Amazon-Sales-Analysis-Project.git)**  
   Created and implemented a Power BI dashboard to visualize sales trends, streamlining data cleaning processes for 10,000+ sales records, improving reporting efficiency by 20%.
 
+- **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)**
+  Developed a Excel dashboard to analyze financial data of India’s top 500 companies, identifying trends like a 0.63 correlation between market cap and sales. Simplified reporting to support strategic decisions and highlight growth opportunities in Small Cap companies.
+
 - **[Employee Attrition Analysis](https://github.com/VijaySanas3/Employee-Attrition-Analysis-Project.git)**  
   Developed a Power BI dashboard to track employee attritio n trends and visualize factors influencing turnover, uncovering actionable insights for HR strategies.
 
 - **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Analysis.git)**  
   Performed ETL on heart disease data and created visualizations to track heart disease rates by age and gender, providing insights for healthcare policy-making.
-
-- **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)** 
-  Developed a Power BI dashboard to analyze financial data of India’s top 500 companies, identifying trends like a 0.63 correlation between market cap and sales. Simplified reporting to support strategic decisions and highlight growth opportunities in Small Cap companies.
 
 ---
 
