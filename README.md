@@ -54,6 +54,9 @@
 - **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Analysis.git)**  
   Performed ETL on heart disease data and created visualizations to track heart disease rates by age and gender, providing insights for healthcare policy-making.
 
+- **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)** 
+  Developed a Power BI dashboard to analyze financial data of India’s top 500 companies, identifying trends like a 0.63 correlation between market cap and sales. Simplified reporting to support strategic decisions and highlight growth opportunities in Small Cap companies.
+
 ---
 
 <h2>Skills</h2>
