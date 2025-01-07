@@ -48,8 +48,8 @@
 <h2>Projects</h2>
 
 - **[Amazon Sales Analysis](https://github.com/VijaySanas3/Amazon-Sales-Analysis-Project.git)**
-  - Developed a dynamic Power BI dashboard to visualize sales trends, analyzing over 10,000 sales records to identify patterns and opportunities.
-  - Streamlined data cleaning processes, enhancing reporting efficiency by 20% and providing actionable insights for strategic decision-making.
+  - Created a dynamic Power BI dashboard to visualize sales trends, analyzing over 10,000 sales records to uncover patterns and growth opportunities.
+  - Optimized data cleaning processes, boosting reporting efficiency by 20% and delivering actionable insights to inform strategic decisions.
 
 - **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)**
   - Created an Excel dashboard to analyze financial data of India’s top 500 companies, identifying a strong 0.63 correlation between market capitalization and sales.
