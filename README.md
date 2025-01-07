@@ -34,9 +34,10 @@
 <h2>Experience</h2>
 
 - **Data Analyst Intern** | Unified Mentor Pvt. Ltd. *(2023 – 2024)*  
-  - Developed and implemented an interactive Power BI dashboard with 10+ dynamic KPIs and charts, enhancing decision-making efficiency by 15%.  
-  - Conducted in-depth data analysis and created ETL pipelines using Excel and Power BI, producing 20+ actionable insights for strategic planning.  
-  - Boosted reporting accuracy by 25% through data cleaning and transformation processes, ensuring reliable data for reports and visualizations.
+  - Developed key projects, including Amazon Sales Analysis, Financial Analytics, Employee Attrition Analysis, and Heart Disease Diagnostic Analysis, providing actionable, data-driven insights.
+  - Designed and implemented dynamic Power BI dashboards with interactive KPIs and charts, enhancing decision-making efficiency by 15%.
+  - Conducted comprehensive data cleaning, ETL processes, and in-depth analyses to ensure data accuracy and relevance for strategic planning.
+  - Increased reporting accuracy by 25% through robust data transformation and validation techniques.
 
 - **Python Programming Intern** | CodSoft *(2022 – 2023)*  
   - Developed Python-based applications (to-do list, calculator, password generator) with user-friendly interfaces using Tkinter.  
