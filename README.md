@@ -50,7 +50,7 @@
   - Created a dynamic Power BI dashboard to visualize sales trends, analyzing over 10,000 sales records to uncover patterns and growth opportunities.
   - Optimized data cleaning processes, boosting reporting efficiency by 20% and delivering actionable insights to inform strategic decisions.
 
-- **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)**
+- **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics-Dashboard.git)**
   - Created an Excel dashboard to analyze financial data of India’s top 500 companies, identifying a strong 0.63 correlation between market capitalization and sales.
   - Segmented companies into Small, Mid, and Large Cap categories, highlighting growth opportunities in Small Cap businesses and supporting investment strategies.
   - Delivered insights into market leadership in IT, Energy, and Banking sectors, enabling data-driven strategic decisions.
