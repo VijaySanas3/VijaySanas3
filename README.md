@@ -10,8 +10,7 @@
 
 
 
-<p>I am a recent graduate with a specialization in data analysis, possessing hands-on experience with Power BI, SQL, and Excel for effective data management and reporting. 
-  I excel at analyzing large datasets, generating actionable insights, and supporting data-driven decision-making processes. With strong technical and analytical skills, I am passionate about leveraging data to drive business improvements and am eager to contribute to organizational success as a data analyst.</p>
+<p>I am a recent graduate specializing in data analysis, with hands-on experience using **Power BI**, **SQL**, and **Excel** for efficient data management and insightful reporting. Skilled in analyzing large datasets and generating actionable insights, I am committed to supporting data-driven decision-making processes. With strong technical and analytical abilities, I am passionate about leveraging data to drive business improvements and am eager to contribute to organizational success as a **Data Analyst**.</p>
 
 ---
 
