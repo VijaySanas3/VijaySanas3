@@ -46,16 +46,23 @@
 <h2>Projects</h2>
 
 - **[Amazon Sales Analysis](https://github.com/VijaySanas3/Amazon-Sales-Analysis-Project.git)**  
-  Created and implemented a Power BI dashboard to visualize sales trends, streamlining data cleaning processes for 10,000+ sales records, improving reporting efficiency by 20%.
+  Developed a dynamic Power BI dashboard to visualize sales trends, analyzing over 10,000 sales records to identify patterns and opportunities.
+Streamlined data cleaning processes, enhancing reporting efficiency by 20% and providing actionable insights for strategic decision-making.
 
 - **[Financial Analytics](https://github.com/VijaySanas3/Financial-Analytics.git)**
-  Developed a Excel dashboard to analyze financial data of India’s top 500 companies, identifying trends like a 0.63 correlation between market cap and sales. Simplified reporting to support strategic decisions and highlight growth opportunities in Small Cap companies.
+  Created an Excel dashboard to analyze financial data of India’s top 500 companies, identifying a strong 0.63 correlation between market capitalization and sales.
+Segmented companies into Small, Mid, and Large Cap categories, highlighting growth opportunities in Small Cap businesses and supporting investment strategies.
+Delivered insights into market leadership in IT, Energy, and Banking sectors, enabling data-driven strategic decisions.
 
 - **[Employee Attrition Analysis](https://github.com/VijaySanas3/Employee-Attrition-Analysis-Project.git)**  
-  Developed a Power BI dashboard to track employee attritio n trends and visualize factors influencing turnover, uncovering actionable insights for HR strategies.
+  Designed a comprehensive Power BI dashboard to uncover factors driving a 15% attrition rate at XYZ Company.
+Leveraged data modeling (Star Schema) to identify trends such as high attrition among younger employees, single individuals, and R&D roles.
+Recommended targeted HR strategies, including onboarding improvements and role-specific retention initiatives, reducing employee turnover.
 
 - **[Heart Disease Diagnostic Analysis](https://github.com/VijaySanas3/Heart-Disease-Analysis.git)**  
-  Performed ETL on heart disease data and created visualizations to track heart disease rates by age and gender, providing insights for healthcare policy-making.
+  Conducted ETL processes and created interactive Excel dashboards to analyze 302 patient records, identifying age, gender, and clinical factors influencing heart disease risk.
+Highlighted key trends, such as elevated cholesterol levels and non-anginal chest pain as primary indicators, guiding healthcare policies and interventions.
+Proposed targeted screening and lifestyle improvement strategies to reduce heart disease incidence and improve patient outcomes.
 
 ---
 
