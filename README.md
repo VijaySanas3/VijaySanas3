@@ -69,13 +69,10 @@
 
 <h2>Skills</h2>
 
-- **Data Analysis Tools:**
-  - MS Excel (Intermediate)
-  - Power BI (Intermediate)
-  - MySQL (Intermediate)
-
-- **Programming Languages:**
-  - Python (Beginner)
+  - MS Excel (VLOOKUP, HLOOKUP, XLOOKUP, Pivot Tables, INDEX-MATCH, Conditional Formatting, Formulas & Functions, Power Query, Macros & VBA)
+  - Power BI (ETL, Data Modelling, DAX, Dashboards, Publishing Reports)
+  - MySQL (DDL, DML, DQL, Joins, Aggregate Functions)
+  - Python (Numpy, Pandas, Matplotlib, Seaborn)
 
 ---
 
