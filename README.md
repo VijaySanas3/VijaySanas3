@@ -38,7 +38,7 @@
   - Conducted comprehensive data cleaning, ETL processes, and in-depth analyses to ensure data accuracy and relevance for strategic planning.
   - Increased reporting accuracy by 25% through robust data transformation and validation techniques.
 
-- **Python Programming Intern** | CodSoft *(2022 – 2023)*  
+- **[Python Programming Intern](https://github.com/VijaySanas3/CodSoft-Certificate.git)** | CodSoft *(2022 – 2023)*  
   - Developed Python-based applications (to-do list, calculator, password generator) with user-friendly interfaces using Tkinter.  
   - Enhanced code performance by 10% through debugging, testing, and project management, ensuring robust software functionality.  
 
