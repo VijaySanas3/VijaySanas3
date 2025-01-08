@@ -69,10 +69,11 @@
 
 <h2>Skills</h2>
 
-  - MS Excel (VLOOKUP, HLOOKUP, XLOOKUP, Pivot Tables, INDEX-MATCH, Conditional Formatting, Formulas & Functions, Power Query, Macros & VBA)
-  - Power BI (ETL, Data Modelling, DAX, Dashboards, Publishing Reports)
-  - MySQL (DDL, DML, DQL, Joins, Aggregate Functions)
-  - Python (Numpy, Pandas, Matplotlib, Seaborn)
+  - MS Excel ( Data Cleaning, VLOOKUP, HLOOKUP, XLOOKUP, Pivot Tables, INDEX-MATCH, Conditional Formatting, Formulas & Functions, Power Query, Macros & VBA )
+  - Power BI ( ETL, Data Modelling, DAX, Interactive Dashboards, Publishing Reports )
+  - MySQL ( DDL, DML, DQL, Joins, Aggregate Functions, Data Retrieval )
+  - Python ( Numpy, Pandas, Matplotlib, Seaborn, EDA )
+  - AI Tools ( ChatGPT, CoPilot )
 
 ---
 
