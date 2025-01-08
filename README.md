@@ -69,11 +69,18 @@
 
 <h2>Skills</h2>
 
+**Technical Skills**
   - MS Excel ( VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH, Power Query, Pivot Tables, VBA Macros, Advanced Functions, Conditional Formatting )
   - Power BI ( ETL, Data Modeling, DAX, Interactive Dashboards, Report Publishing )
   - MySQL ( DDL, DML, DQL, Joins, Aggregate Functions, Complex Queries )
   - Python ( NumPy, Pandas, Matplotlib, Seaborn )
   - AI Tools ( ChatGPT, Copilot, Gemini, Claude )
+  - Additional ( MS PowerPoint, MS Word )
+
+**Soft Skills**
+  - Attention to Detail
+  - Time Management
+  - Team Collaboration
 
 ---
 
