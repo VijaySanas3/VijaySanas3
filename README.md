@@ -88,4 +88,4 @@
 
 - [**Data Analytics Certificate**](https://github.com/VijaySanas3/Data-Analytics-Certification_Techgen-Computer-Training-Institute.git) *(2024)*  
 - [**SQL Programming Essentials**](https://github.com/VijaySanas3/SQL-Programming-Essentials_Udemy-Certificate.git) *(2023)*  
-- [**Advanced Excel Certificate**](https://example.com/advanced-excel-certificate) *(2023)*  
+- [**Advanced Excel Certificate**](https://github.com/VijaySanas3/Advanced-Excel-Certificate_Internshala.git) *(2023)*  
