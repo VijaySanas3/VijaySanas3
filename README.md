@@ -86,6 +86,6 @@
 
 <h2>Certifications</h2>
 
-- [**Data Analytics Certificate**](https://example.com/data-analytics-certificate) *(2024)*  
+- [**Data Analytics Certificate**](https://github.com/VijaySanas3/Data-Analytics-Certification_Techgen-Computer-Training-Institute.git) *(2024)*  
 - [**SQL Programming Essentials**](https://example.com/sql-programming-essentials) *(2023)*  
 - [**Advanced Excel Certificate**](https://example.com/advanced-excel-certificate) *(2023)*  
