@@ -1,7 +1,7 @@
 <h1 align="center">VIJAY SANAS</h1>
 
 <p align="center">
-  | 📞 Phone: <b>+91 9137051056</b> | ✉️ Email: <b>vijay.sanas45@gmail.com</b> | 
+  | 📞 Phone: <b>+91 9137051056</b> | ✉️ Email: <b>vijay.sanas45@gmail.com</b> | 📍 Location: <b>Mumbai, INDIA</b> | 
   <a href="https://www.linkedin.com/in/vijay-sanas/"><b>LinkedIn</b></a> | 
   <a href="https://github.com/VijaySanas3"><b>GitHub</b></a> |
 </p>
