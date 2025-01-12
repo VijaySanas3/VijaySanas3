@@ -32,7 +32,7 @@
 
 <h2>Experience</h2>
 
-- **Data Analyst Intern** | Unified Mentor Pvt. Ltd. *(2023 – 2024)*  
+- **[Data Analyst Intern](https://github.com/VijaySanas3/Data-Analyst_Internship-Certificate_Unified-Mentor-Pvt-Ltd.git)** | Unified Mentor Pvt. Ltd. *(2023 – 2024)*  
   - Developed key projects, including Amazon Sales Analysis, Financial Analytics, Employee Attrition Analysis, and Heart Disease Diagnostic Analysis, providing actionable, data-driven insights.
   - Designed and implemented dynamic Power BI dashboards with interactive KPIs and charts, enhancing decision-making efficiency by 15%.
   - Conducted comprehensive data cleaning, ETL processes, and in-depth analyses to ensure data accuracy and relevance for strategic planning.
